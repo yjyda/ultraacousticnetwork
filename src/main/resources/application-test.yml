@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://db-ultrameeting.cpbpxkrsnmxn.rds.cn-northwest-1.amazonaws.com.cn:3308/ultrameeting_test?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC&autoReconnect=true&failOverReadOnly=false
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: root-123
